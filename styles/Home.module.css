@@ -31,6 +31,9 @@
 .title a {
   color: #0070f3;
   text-decoration: none;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
 }
 
 .title a:hover,
