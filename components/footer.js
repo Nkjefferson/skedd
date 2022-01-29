@@ -20,6 +20,9 @@ export default function Footer(){
         <li className={styles.navItem}>
           <a href="http://codepen.io/nkjefferson/#"><FontAwesomeIcon icon={faCodepen} /></a>
         </li>
+        <li>
+          Created by Nathaniel Jefferson
+        </li>
       </ul>
     </footer>
   )
