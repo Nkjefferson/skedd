@@ -25,7 +25,7 @@ export default function Dashboard() {
           <div className={styles.grid}>
             <Link href="/">
               <div className={styles.card}>
-                <h2>Card Title</h2>
+                <h2>Card Title is longer than expected</h2>
                 <p>This is a card</p>
               </div>
             </Link>
@@ -38,7 +38,7 @@ export default function Dashboard() {
             <Link href="/">
               <div className={styles.card}>
                 <h2>Card Title</h2>
-                <p>This is a third card it has alot of text I wasn't prepared for</p>
+                <p>This is a third card it has alot of text I wasn't prepared for if I just keep going I wonder where the card will end up and it will eventually track off the page</p>
               </div>
             </Link>
             <Link href="/">
